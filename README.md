@@ -4,7 +4,7 @@
 
 .
 - 🎐 Exploring **WEB DEVELOPMENT**
-- 🌱 Currently learing **Design and Analysis of Algorithm**
+- 🌱 Currently learing **Design and Analysis of Algorithm** and **Python**
 - 📘 Have learnt **JAVA** along with JavaFX
 - 📙 Have learnt **C** and **C++**
 - 📙 Have learnt **DSA** 
@@ -19,8 +19,8 @@
 
 .
 - 🦀 [Projects I'm currently working on...]
-    - Monthly *University Management System* Website (using **HTML**, **CSS** , **JS** , **SQL** & **Reach JS**)
-    - A simple framework for Python 
+    - **University Management System** Website (using **HTML**, **CSS** , **JS** , **SQL** & **Reach JS**)
+  
 
 .
 - 💬 feel free to discuss project ideas with me.
