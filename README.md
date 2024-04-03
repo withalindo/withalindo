@@ -6,8 +6,8 @@
 - 🎐 Exploring **WEB DEVELOPMENT**
 - 🌱 Currently learing **Design and Analysis of Algorithm**
 - 📘 Have learnt **JAVA** along with **JavaFX**
-- 📙 Have learnt **C** and **C++**
-- 📙 Have learnt **DSA** 
+- 📙 Have learnt **C** , **C++** and **DSA** 
+
 
 
 .
