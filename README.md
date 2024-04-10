@@ -22,7 +22,7 @@
 
 .
 - 💬 feel free to discuss project ideas with me.
-- 📫 How to reach me:
+- 📫 :
 <a href="https://www.linkedin.com/in/hasnat-karibul-islam-alindau-0373b322b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="withalindo" height="30" width="40" /></a>
 <a href="https://www.facebook.com/alindo201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="withalindo" height="30" width="40" /></a>
 
