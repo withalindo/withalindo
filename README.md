@@ -4,9 +4,8 @@
 
 .
 - 🎐 Exploring **WEB DEVELOPMENT**
-- 🌱 Currently learing **Design and Analysis of Algorithm**
-- 📘 Have learnt **JAVA** along with **JavaFX**
-- 📙 Have learnt **C** , **C++** and **DSA** 
+- 🌱 Currently learning **Design and Analysis of Algorithm**
+- 📘 Have learnt **JAVA** along with **JavaFX** , **C** , **C++** and **DSA** 
 
 
 
@@ -19,7 +18,7 @@
 
 .
 - 🦀 [Projects I'm currently working on...]
-    - **University Management System** Website (using **HTML**, **CSS** , **JS** , **SQL** & **Reach JS**)
+    - **University Management System** Website (using **HTML**, **CSS** , **JS** , **SQL** & **React JS**)
   
 
 .
