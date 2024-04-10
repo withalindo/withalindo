@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=withalindo&label=Profile%20views&color=323264&style=flat" alt="withalindo" /> </p>
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=withalindo&label=Profile%20views&color=323264&style=flat" alt="withalindo" /> </p>
 
 ### Hello there, This is Alindo 👋
 
@@ -10,16 +10,15 @@
 
 
 .
-- 🎲 [Projects I have done...]
-    - 🔥Have worked with AI Chat Bots.
+- 🎲 [Projects have already done...]
     - 🪵Management System with Java and C.
     - 🔥Music Player System.
     - 🪵TIC TAC TOE Game
 
 .
-- 🦀 [Projects I'm currently working on...]
-    - **University Management System** Website (using **HTML**, **CSS** , **JS** , **SQL** & **React JS**)
-  
+- 🦀 [Projects currently working on...]
+    - 🔥**University Management System** Website (using **HTML**, **CSS** , **JS** , **SQL** & **React JS**)
+    - 🔥**Working on AI Chat Bots**.
 
 .
 - 💬 feel free to discuss project ideas with me.
