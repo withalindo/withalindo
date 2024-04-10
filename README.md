@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=withalindo&label=Profile%20views&color=323264&style=flat" alt="withalindo" /> </p>
 
-### Hello there, This is Alindo 👋
+### Hello, This is Alindo 👋
 
 .
 - 🎐 Exploring **WEB DEVELOPMENT**
