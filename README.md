@@ -3,22 +3,22 @@
 ### Hello, This is Alindo 👋
 
 .
-- 🎐 Exploring **WEB DEVELOPMENT**
-- 🌱 Currently learning **Design and Analysis of Algorithm**
-- 📘 Have learnt **JAVA** along with **JavaFX** , **Python** , **C** , **C++** and **DSA** 
+-  Exploring **WEB DEVELOPMENT**
+-  Currently learning **Design and Analysis of Algorithm**
+-  Have learnt **JAVA** along with **JavaFX** , **Python** , **C** , **C++** and **DSA** 
 
 
 
 .
-- 🎲 [Projects have already done...]
-    - 🪵Management System with Java and C.
-    - 🔥Music Player System.
-    - 🪵TIC TAC TOE Game
+-  [Projects have already done...]
+    - Management System with Java and C.
+    - Music Player System.
+    - TIC TAC TOE Game
 
 .
-- 🦀 [Projects currently working on...]
-    - 🔥**University Management System** Website (using **HTML**, **CSS** , **JS** , **SQL** & **React JS**)
-    - 🔥**Working on AI Chat Bots**.
+-  [Projects currently working on...]
+    - **University Management System** Website (using **HTML**, **CSS** , **JS** , **SQL** & **React JS**)
+    - **Working on AI Chat Bots**.
 
 .
 - 💬 feel free to discuss project ideas with me.
