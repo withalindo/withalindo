@@ -23,7 +23,8 @@
 
 .
 - <h4>💬 Discuss project ideas with me.</h4>
-- <h3>How to reach me 📫 </h3>
+- <h3 align="left">How to reach me 📫 </h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/hasnat-karibul-islam-alindau-0373b322b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="withalindo" height="30" width="40" /></a>
 <a href="https://www.facebook.com/alindo201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="withalindo" height="30" width="40" /></a>
 <a href="mailto:withalindo@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Saeem linkedin" height="30" width="40" /></a>
