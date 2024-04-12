@@ -7,7 +7,7 @@
 .
 -  Exploring **WEB DEVELOPMENT**
 -  Currently learning **Design and Analysis of Algorithm**
--  -  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6a20b83da11c623a7f40cf480ed2b77949b49c86e1ea1475f7758ae658289429/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e614a54455a72746d326b41414141432f6c6576692d6c6576692d6372696e67652e676966">
+  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6a20b83da11c623a7f40cf480ed2b77949b49c86e1ea1475f7758ae658289429/68747470733a2f2f6d656469612e74656e6f722e636f6d2f4e614a54455a72746d326b41414141432f6c6576692d6c6576692d6372696e67652e676966">
 
 -  Have learnt **JAVA** along with **JavaFX** , **Python** , **C** , **C++** and **DSA**
 
