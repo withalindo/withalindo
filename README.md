@@ -6,7 +6,7 @@
 -  Exploring **WEB DEVELOPMENT**
 -  Currently learning **Design and Analysis of Algorithm**
 -  Have learnt **JAVA** along with **JavaFX** , **Python** , **C** , **C++** and **DSA**
--  <img align="right" alt="Coding" width="400" src="https://pin.it/FBhHOsmjp">
+-  <img align="right" alt="Coding" width="400" src="https://i.gifer.com/7UYs.gif">
 
 
 
