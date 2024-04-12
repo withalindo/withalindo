@@ -25,7 +25,7 @@
 
 .
  <h4>💬 Discuss project ideas with me.</h4>
- <h4>⚡ Fun fact **I would like to have Black Coffee at 50-degree celsius too</h4>
+ <h4>⚡ Fun fact I would like to have Black Coffee at 50-degree celsius too</h4>
 
 
  
