@@ -17,7 +17,7 @@
     - TIC TAC TOE Game
 
 
--  [Projects currently working on...]
+  - 🦀 [Projects I'm currently working on...]
     - **University Management System** Website (using **HTML**, **CSS** , **JS** , **SQL** & **React JS**)
     - **Working on AI Chat Bots**.
 
