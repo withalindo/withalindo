@@ -9,7 +9,6 @@
 - 🌱 Currently learing **Design and Analysis of Algorithm** and **React**
 - 📘 Have learnt **JAVA** along with **JavaFX** , **C** , **C++** and **DSA**
 
-  
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 
@@ -25,7 +24,7 @@
 
 .
  <h4>💬 Discuss project ideas with me.</h4>
- <h4>⚡ Fun fact I would like to have Black Coffee at 50-degree celsius too</h4>
+ <h4>⚡ Fun fact: I would like to have Black Coffee at 50 degrees Celsius too</h4>
 
 
  
