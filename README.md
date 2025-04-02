@@ -19,8 +19,8 @@
 
 
   <h3>-🦀 [Projects I'm currently working on...]</h3>
-    - **Smart City Infrastructure Management System** Website (using **HTML**, **CSS** , **JS** , **MySQL** & **React JS**)
-    - **Working on AI Chat Bots**.
+    -**Smart City Infrastructure Management System** Website (using **HTML**, **CSS** , **JS** , **MySQL** & **React JS**)
+    -**Working on AI Chat Bots**.
 
 .
  <h4>💬 Discuss project ideas with me.</h4>
