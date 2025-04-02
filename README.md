@@ -9,22 +9,24 @@
 - 🌱 Currently learing **Design and Analysis of Algorithm** and **React**
 - 📘 Have learnt **JAVA** along with **JavaFX** , **C** , **C++** and **DSA**
 
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
+<h3>🦀 Projects I have already completed...</h3>
+<ul>
+    <li>Management System using <strong>Java</strong> and <strong>C</strong>.</li>
+    <li>Music Player System.</li>
+    <li>Tic-Tac-Toe Game.</li>
+</ul>
 
-<h3>-🦀[Projects have already done...]</h3>
-    - Management System with **Java** and **C**.
-    - Music Player System.
-    - TIC TAC TOE Game
+<h3>🦀 Projects I'm currently working on...</h3>
+<ul>
+    <li><strong>Smart City Infrastructure Management System</strong> (using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>MySQL</strong>, and <strong>React.js</strong>).</li>
+    <li><strong>AI Chatbots Development.</strong></li>
+</ul>
 
+<h4>💬 Feel free to discuss project ideas with me!</h4>
+<h4>⚡ Fun fact: I enjoy Black Coffee at 50°C too!</h4>
 
-  <h3>-🦀 [Projects I'm currently working on...]</h3>
-    -**Smart City Infrastructure Management System** Website (using **HTML**, **CSS** , **JS** , **MySQL** & **React JS**)
-    -**Working on AI Chat Bots**.
-
-.
- <h4>💬 Discuss project ideas with me.</h4>
- <h4>⚡ Fun fact: I would like to have Black Coffee at 50 degrees Celsius too</h4>
 
 
  
