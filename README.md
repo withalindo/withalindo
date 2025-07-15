@@ -18,7 +18,7 @@
     <li>Management System using <strong>Java</strong> and <strong>C</strong>.</li>
     <li>Music Player System.</li>
     <li>Tic-Tac-Toe Game.</li>
-    <li><strong>Smart City Infrastructure Management System</strong>.</li>
+    <li><strong>Smart City Information Management System</strong>.</li>
 </ul>
 
 <h3>🦀 Projects I'm currently working on...</h3>
