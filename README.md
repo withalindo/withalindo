@@ -18,11 +18,11 @@
     <li>Management System using <strong>Java</strong> and <strong>C</strong>.</li>
     <li>Music Player System.</li>
     <li>Tic-Tac-Toe Game.</li>
+    <li><strong>Smart City Infrastructure Management System</strong> (using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>MySQL</strong>, and <strong>React</strong>).</li>
 </ul>
 
 <h3>🦀 Projects I'm currently working on...</h3>
 <ul>
-    <li><strong>Smart City Infrastructure Management System</strong> (using <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>MySQL</strong>, and <strong>React</strong>).</li>
     <li><strong>AI Chatbots Development.</strong></li>
 </ul>
 
