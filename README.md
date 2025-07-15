@@ -23,6 +23,7 @@
 
 <h3>🦀 Projects I'm currently working on...</h3>
 <ul>
+    <li><strong>JobMarket.</strong></li>
     <li><strong>AI Chatbots Development.</strong></li>
 </ul>
 
