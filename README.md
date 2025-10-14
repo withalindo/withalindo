@@ -19,11 +19,12 @@
     <li>Music Player System.</li>
     <li>Tic-Tac-Toe Game.</li>
     <li><strong>Smart City Information Management System</strong>.</li>
+    <li><strong>JobMarket.</strong></li>
 </ul>
 
 <h3>🦀 Projects I'm currently working on...</h3>
 <ul>
-    <li><strong>JobMarket.</strong></li>
+    <li><strong>Climate Analyzer system.</strong></li>
     <li><strong>AI Chatbots Development.</strong></li>
 </ul>
 
