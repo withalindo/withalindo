@@ -34,11 +34,21 @@
 
 
  
-<h3 align="left">How to reach me 📫 </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hasnat-karibul-islam-alindau-0373b322b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="withalindo" height="30" width="40" /></a>
-<a href="https://www.facebook.com/alindo201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="withalindo" height="30" width="40" /></a>
-<a href="mailto:withalindo@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Alindo's linkedin" height="30" width="40" /></a>
+<h3 align="center">📬 Let's Connect</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hasnat-karibul-islam-alindau-0373b322b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/alindo201" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:rootcode56@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br>
 
 
 - 📝 Languages and Tools: <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="reactjs" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
