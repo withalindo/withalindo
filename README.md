@@ -37,7 +37,7 @@
 <h3 align="center">📬 Let's Connect</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/hasnat-karibul-islam-alindau-0373b322b/](https://www.linkedin.com/in/hasnat-karibul-islam-1b2107380/)" target="_blank">
+  <a href="https://www.linkedin.com/in/hasnat-karibul-islam-1b2107380/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/alindo201" target="_blank">
