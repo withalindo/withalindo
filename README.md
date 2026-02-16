@@ -43,7 +43,7 @@
   <a href="https://www.facebook.com/alindo201" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="mailto:rootcode56@gmail.com">
+  <a href="[mailto:withalindo@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=withalindo@gmail.com)">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
