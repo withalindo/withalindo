@@ -76,11 +76,5 @@
     
 </p>  -->
 
-<br />
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=withalindo&theme=radical" alt="Activity Graph" />
-</p>
-
 
 
