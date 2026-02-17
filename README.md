@@ -82,15 +82,5 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=withalindo&theme=radical" alt="Activity Graph" />
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=withalindo&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=withalindo&theme=radical" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
 
 
