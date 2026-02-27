@@ -19,7 +19,7 @@
     
 </h3>
 <ul>
-    <li><strong>anagement System using Java and C.</li>
+    <li><strong>Management System using Java and C.</li>
     <li><strong>Music Player System.</strong></li>
     <li><strong>Tic-Tac-Toe Game.</strong></li>
     <li><strong>Smart City Information Management System</strong>.</li>
